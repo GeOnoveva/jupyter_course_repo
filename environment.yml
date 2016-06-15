@@ -1,0 +1,10 @@
+name: r
+channels:
+    - r
+    - bioconda
+dependencies:
+    - r
+    - r-irkernel
+    - r-vegan
+    - r-raster
+    - r-nlme
