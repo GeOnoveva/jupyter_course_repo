@@ -1,3 +1,2 @@
 # jupyter_course_repo
-My cool repository
-It's very cool
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/GeOnoveva/jupyter_course_repo)
